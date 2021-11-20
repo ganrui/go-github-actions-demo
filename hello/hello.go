@@ -1,18 +1,10 @@
 package hello
 
 
-import "testing"
+// Greet... Greet GitHub Actions
 
+func Greet() string {
 
-func TestGreet(t *testing.T) {
-
-    result := Greet()
-
-    if result != "Hello GitHub Actions" {
-
-        t.Errorf("Greet() = %s; Expected Hello GitHub actions", result)
-
-    }
-
+    return "Hello GitHub Actions"
 
 }
