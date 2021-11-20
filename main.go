@@ -6,7 +6,7 @@ import (
     "fmt"
 
 
-    "github.com/cnych/go-github-actions/hello"
+    "github.com/ganrui/go-github-actions/hello"
 
 )
 
