@@ -4,9 +4,7 @@ package main
 import (
 
     "fmt"
-
-
-    "github.com/ganrui/go-github-actions/hello"
+	"go-github-actions-demo/hello"
 
 )
 
